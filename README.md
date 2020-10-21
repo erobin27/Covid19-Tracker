@@ -2,7 +2,7 @@
 
 The purpose of this project is to create visualizations of Covid-19 data using an API.
 
-
+![](covid19.gif)
 -------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
