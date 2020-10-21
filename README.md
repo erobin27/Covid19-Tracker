@@ -17,3 +17,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
+Built off of JavaScript Mastery's youtube tutorial: https://www.youtube.com/watch?v=khJlrj3Y6Ls&t=177s
