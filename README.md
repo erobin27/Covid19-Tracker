@@ -1,8 +1,16 @@
+![](covid19.gif)
+
 ### `Purpose`
 
 The purpose of this project is to create visualizations of Covid-19 data using an API.
 
-![](covid19.gif)
+### `TODO`
+
+-Add NavBar
+-Add Footer
+-Add Interactive Map using https://www.react-simple-maps.io/
+
+
 -------------------------------------------------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
